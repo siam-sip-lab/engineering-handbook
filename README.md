@@ -10,6 +10,7 @@ requests, like code.
 - [Versioning](docs/standards/versioning.md)
 - [Code review](docs/standards/code-review.md)
 - [Repository naming](docs/standards/repo-naming.md)
+- [New repository checklist](docs/standards/new-repo-checklist.md)
 
 ## Decisions (`docs/adr/`)
 
