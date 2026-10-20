@@ -17,3 +17,4 @@ requests, like code.
 - [ADR-0001 Adopt a GitHub Organization](docs/adr/0001-adopt-github-organization.md)
 - [ADR-0002 Use GitHub Flow](docs/adr/0002-branching-model.md)
 - [ADR-0003 Squash and merge only](docs/adr/0003-merge-strategy.md)
+- [ADR-0004 Pin GitHub Actions to full commit SHAs](docs/adr/0004-pin-actions-to-sha.md)
